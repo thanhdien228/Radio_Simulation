@@ -1,0 +1,25 @@
+[2024-12-09 10:47:04.666613] [INFO] {"src/server.cc:21", "Loading database..."}
+[2024-12-09 10:47:04.667667] [INFO] {"src/server.cc:28", "The default database directory is './db'"}
+[2024-12-09 10:47:04.667931] [INFO] {"src/server.cc:141", "Server listening on port 8080..."}
+[2024-12-09 10:47:09.681306] [INFO] {"src/server.cc:205", "Accepted connection from 127.0.0.1. Client 10 connected."}
+[2024-12-09 10:47:09.686903] [INFO] {"src/server.cc:430", "Received message: hello"}
+[2024-12-09 10:47:18.772859] [INFO] {"src/server.cc:430", "Received message: carrier setup 2G 100"}
+[2024-12-09 10:47:27.941055] [INFO] {"src/server.cc:430", "Received message: carrier setup 2G 10"}
+[2024-12-09 10:47:27.941406] [INFO] {"src/server.cc:508", "The server has support 2G!"}
+[2024-12-09 10:47:37.694925] [INFO] {"src/server.cc:430", "Received message: DL 11101011110000"}
+[2024-12-09 10:47:37.722914] [INFO] {"src/server.cc:370", "Open file successfully"}
+[2024-12-09 10:47:39.758207] [INFO] {"../antenna/src/antenna.cc:44", "Calling system call to visualize data successfully"}
+[2024-12-10 11:16:21.951758] [INFO] {"src/server.cc:243", "Shutting down server..."}
+[2024-12-10 11:23:10.417613] [INFO] {"src/server.cc:21", "Loading database..."}
+[2024-12-10 11:23:10.418462] [INFO] {"src/server.cc:28", "The default database directory is './db'"}
+[2024-12-10 11:23:10.418665] [INFO] {"src/server.cc:141", "Server listening on port 8080..."}
+[2024-12-10 11:23:14.534122] [INFO] {"src/server.cc:205", "Accepted connection from 127.0.0.1. Client 10 connected."}
+[2024-12-10 11:23:14.543182] [INFO] {"src/server.cc:431", "Received message: hello"}
+[2024-12-10 11:23:28.555375] [INFO] {"src/server.cc:431", "Received message: carrier setup 2G 10"}
+[2024-12-10 11:23:28.555466] [INFO] {"src/server.cc:508", "The server has support 2G!"}
+[2024-12-10 11:23:31.261080] [INFO] {"src/server.cc:431", "Received message: DL"}
+[2024-12-10 11:23:35.419088] [INFO] {"src/server.cc:431", "Received message: DL 1010101010\"}
+[2024-12-10 11:23:41.520577] [INFO] {"src/server.cc:431", "Received message: DL 10101010"}
+[2024-12-10 11:23:41.536037] [INFO] {"src/server.cc:370", "Open file successfully"}
+[2024-12-10 11:23:43.314909] [INFO] {"../antenna/src/antenna.cc:44", "Calling system call to visualize data successfully"}
+[2024-12-10 11:23:57.177149] [INFO] {"src/server.cc:243", "Shutting down server..."}
